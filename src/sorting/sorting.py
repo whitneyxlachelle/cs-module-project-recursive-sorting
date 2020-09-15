@@ -11,7 +11,6 @@ def merge(arrA, arrB):
 def merge_sort(arr):
     # Your code here
 
-
     return arr
 
 # STRETCH: implement the recursive logic for merge sort in a way that doesn't 
