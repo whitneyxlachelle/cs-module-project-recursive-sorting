@@ -5,13 +5,11 @@ def merge(arrA, arrB):
 
     # Your code here
 
-
     return merged_arr
 
 # TO-DO: implement the Merge Sort function below recursively
 def merge_sort(arr):
     # Your code here
-
 
     return arr
 
